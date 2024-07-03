@@ -18,7 +18,7 @@
 ## 🛠️ Ferramentas que uso/estudo:
 
 <div>
-<a src="https://godotengine.org/"><img align="center" alt="AlekssandherHtml" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a src="https://godotengine.org/"><img align="center" alt="AlekssandherHtml" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" href="https://godotengine.org/"/></a>
 <img align="center" alt="AlekssandherGodot" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <img align="center" alt="AlekssandherPowerBi" height="40" width="60" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img align="center" alt="AlekssandherMySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
