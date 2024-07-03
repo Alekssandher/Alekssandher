@@ -1,9 +1,8 @@
-## 🙋 HI
+## 🙋 HI! Me chamo Alekssandher Exaltação
 
-<li> Me chamo Alekssandher Exaltação
+<li> Atualmente estou cursando Engenharia de Software pela Unicesumar e realizando o curso de Dev Full Stack da ¡Talents</li>
 
-<li> Atualmente estou cursando Engenharia de Software pela Unicesumar<p>
- 
+## ⚙️ Github Analytics
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssandher&layout=compact&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alekssandher&show_icons=true&theme=tokyonight"/>
