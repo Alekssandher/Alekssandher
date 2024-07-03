@@ -12,12 +12,12 @@
 ## ✉️ Contato:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekssandher/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AlekssandherMax)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alekssandher1@hotmail.com)
+[![Whats App](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+13+991370468)
 
 ## 🛠️ Ferramentas que uso/estudo:
 
-<div>
+<div align="center">
 <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="AlekssandherHtml" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 <a href="https://godotengine.org/"><img align="center" alt="AlekssandherGodot" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /></a>
 <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img align="center" alt="AlekssandherPowerBi" height="40" width="60" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
