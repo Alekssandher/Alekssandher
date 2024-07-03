@@ -5,8 +5,8 @@
 <li> Atualmente estou cursando Engenharia de Software pela Unicesumar<p>
  
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alekssandher&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssandher&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alekssandher&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## ✉️ Contato:
