@@ -23,6 +23,7 @@
 <img align="center" alt="AlekssandherPowerBi" height="40" width="60" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img align="center" alt="AlekssandherMySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="AlekssandherMySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" />
+<img align="center" alt="AlekssandherJavaScript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
 </div>
