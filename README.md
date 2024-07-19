@@ -21,8 +21,8 @@
 <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="AlekssandherCss" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Css" title="Css"/></a>
 <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="AlekssandherJavaScript" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></a>
 <a href="https://godotengine.org/"><img align="center" alt="AlekssandherGodot" height="40" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="Godot" title="Godot"/></a>
-<a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img align="center" alt="AlekssandherPowerBi" height="40" width="60" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi" title="PowerBi"/></a>
-<a href="https://www.mysql.com/"><img align="center" alt="AlekssandherMySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" title="MySql"/></a>
+<!-- <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi"><img align="center" alt="AlekssandherPowerBi" height="40" width="60" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi" title="PowerBi"/></a>
+<a href="https://www.mysql.com/"><img align="center" alt="AlekssandherMySql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" title="MySql"/></a> -->
 <a href="https://www.debian.org/"><img align="center" alt="AlekssandherDebian" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" alt="Debian" title="Debian"/>
 
 </div>
