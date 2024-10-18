@@ -12,7 +12,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alekssandher1@hotmail.com)
 
 
-## 🛠️ Tools I use/Sudy:
+## 🛠️ Tools I use/Study:
 
 <div align="center">
 <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="AlekssandherHtml" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" title="Html"/></a>
