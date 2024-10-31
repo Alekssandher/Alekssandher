@@ -1,7 +1,5 @@
 ## 🙋 HI! I'm Alekssandher 
 
-<li> studying studying studying</li>
-
 ## ⚙️ Github Analytics
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekssandher&layout=compact&theme=tokyonight"/>
