@@ -1,6 +1,6 @@
 ## 🙋 HI! I'm Alekssandher 
 
-<li> Styding Studing Studing</li>
+<li> studying studying studying</li>
 
 ## ⚙️ Github Analytics
 <div>
