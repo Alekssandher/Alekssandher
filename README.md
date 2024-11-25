@@ -6,7 +6,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alekssandher&show_icons=true&theme=tokyonight"/>
 </div>
 
-## ✉️ Social Media:
+## ✉️ Contact:
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alekssandher1@hotmail.com)
 
 
