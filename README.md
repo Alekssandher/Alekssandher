@@ -12,5 +12,5 @@
 
 ## 🛠️ Tools I use/Study:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,godot,nodejs,mongodb,debian,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,cs,godot,nodejs,mongodb,debian,git&perline=10)](https://skillicons.dev)
 
