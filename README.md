@@ -12,5 +12,4 @@
 
 ## 🛠️ Tools I use/Study:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,asm,net,godot,mongodb,debian,git,java&perline=10)](https://skillicons.dev)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,asm,java,spring,godot,postgresql,mongodb,debian,git&titles=true)
