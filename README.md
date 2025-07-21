@@ -7,7 +7,7 @@
 </div>
 
 ## ✉️ Contact:
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alekssandher1@hotmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alekssandher@proton.me)
 
 
 ## 🛠️ Tools I use/Study:
