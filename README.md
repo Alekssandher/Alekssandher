@@ -12,4 +12,4 @@
 
 ## 🛠️ Tools I use/Study:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,asm,java,spring,godot,postgresql,mongodb,debian,git&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,java,spring,godot,postgresql,mongodb,debian,git&titles=true)
